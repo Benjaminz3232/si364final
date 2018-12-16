@@ -70,7 +70,7 @@ provided. (But you may have more! Make sure you include ALL view functions in th
 ### Additional Requirements
 * (100 points) Include a use of an AJAX request in your application that accesses
 and displays useful (for use of your application) data.
-* **(100 points) Create, run, and commit at least one migration.**
+* (100 points) Create, run, and commit at least one migration.
 * (100 points) Include file upload in your application and save/use the results of
 the file. (We did not explicitly learn this in class, but there is information available
 about it both online and in the Grinberg book.)
